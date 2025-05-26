@@ -61,4 +61,3 @@ void loop() {
 * `digitalWrite(ledPin, LOW)` turns the LED off.
 * `delay(1000)` waits again before repeating.
 
-Let me know if you'd like to modify the blink speed or add a button!
